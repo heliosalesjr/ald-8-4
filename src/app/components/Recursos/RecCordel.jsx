@@ -1,5 +1,6 @@
 import React from 'react'
 import { TbCircleNumber1, TbCircleNumber2, TbCircleNumber3} from "react-icons/tb";
+import RecTabela from './RecTabela';
 
 function RecCordel() {
     return (
@@ -62,7 +63,7 @@ function RecCordel() {
                         
                     </div>
                 </div>
-                
+            <RecTabela />
              </div>  
         
         </div>
