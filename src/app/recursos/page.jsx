@@ -10,6 +10,7 @@ import RecQuizMais from '../components/Recursos/RecQuizMais'
 import RecRedesDD from '../components/Recursos/RecRedesDD'
 import RecSaibaMais from '../components/Recursos/RecSaibaMais'
 import RecRotacao from '../components/Recursos/RecRotacao'
+import RecRota2 from '../components/Recursos/RecRota2'
 
 
 
@@ -24,6 +25,7 @@ function Recursos() {
         <RecLembre />
         <RecCordel />
         <RecRotacao />
+        <RecRota2 />
         <RecCards />
     </>
     
