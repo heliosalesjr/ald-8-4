@@ -22,6 +22,7 @@ function Matematica() {
         <Divider className='max-w-5xl mx-auto'/>
         <MatVideo2 />
         <Divider className='max-w-5xl mx-auto'/>
+        <MatFrac />
         <MatButton />
         
     
