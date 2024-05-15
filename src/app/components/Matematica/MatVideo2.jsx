@@ -21,16 +21,15 @@ function MatVideo2() {
                   initial={{ opacity: 0, scale: 0.5 }}
                   whileInView={{ opacity: 1, scale: 1 }}
                   >
-                  Gráficos de setores</motion.h1>
+                  Estatística: média</motion.h1>
                 <p className="text-white text-lg mx-8">
-                Neste segundo vídeo, o Professor Daniel mostra como interpretar gráficos de setores. Sugerimos o uso até a marcação de 5 minutos.
-                </p>
+                Neste vídeo, o professor Maurício Carvalho traz, de maneira bem detalhada, o que é a média aritmética.</p>
                 <br />
               </motion.div>
               <motion.div className="w-full md:w-1/2"
                 initial={{ opacity: 0, scale: 0.5 }}
                 whileInView={{ opacity: 1, scale: 1 }}>
-                <ReactPlayer url='https://youtu.be/iif_XJno374' width="100%" />
+                <ReactPlayer url='https://youtu.be/CzbXuvd-JaI' width="100%" />
               </motion.div>
             </div>
           </div>
